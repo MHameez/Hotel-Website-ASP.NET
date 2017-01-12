@@ -1,0 +1,2 @@
+# Hotel-Room-Reservation-Website-ASP.NET
+An ASP.net Web Site developed for one of the resort in Sri Lanka. This web application was developed on top C#.NET, which was designed following the Three Tier Architecture. The website is also integrated with MS-SQL Server. The web application was developed to cater to Globalization requirements which allows users to translate the entire website to different languages (Russian, Portuguese and English).   
